@@ -8,7 +8,7 @@
 
 - Multi-Concept Customization of Text-to-Image Diffusion (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2212.04488)] [[code](https://github.com/adobe-research/custom-diffusion)]
 
-- Lora: Low-rank adaption of large language model (**arXiv 2021**) [[paper](https://arxiv.org/abs/2106.09685)] [[code](Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning)]
+- Lora: Low-rank adaption of large language model (**arXiv 2021**) [[paper](https://arxiv.org/abs/2106.09685)] [[code](https://github.com/cloneofsimo/lora)]
 
 - DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Contrastive Prompt-Tuning  (**arXiv 2022**) [[paper](https://arxiv.org/abs/2211.11337)] [[code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 
